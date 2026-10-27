@@ -1,0 +1,9 @@
+name: smoke_hybrid
+dataset: toy
+k: 10
+depth: 50
+retriever:
+  type: hybrid
+  members:
+    - {type: bm25}
+    - {type: vector, model: hashing}

@@ -1,0 +1,9 @@
+{
+ "n": 100,
+ "abstain_rate": 0.56,
+ "valid_citation_rate": 1.0,
+ "cites_gold_rate": 0.35,
+ "gold_in_context_rate": 0.67,
+ "faithful_rate": null,
+ "n_judged": 0
+}

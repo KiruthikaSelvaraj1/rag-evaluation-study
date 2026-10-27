@@ -1,0 +1,6 @@
+name: bm25
+dataset: scifact
+split: test
+k: 10
+depth: 100
+retriever: {type: bm25}

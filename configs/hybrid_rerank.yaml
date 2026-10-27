@@ -1,0 +1,16 @@
+name: hybrid_rerank
+dataset: scifact
+split: test
+k: 10
+depth: 100
+retriever:
+  type: rerank
+  model: cross-encoder/ms-marco-MiniLM-L-6-v2
+  candidates: 50
+  first_stage:
+    type: hybrid
+    rrf_k: 60
+    candidate_depth: 100
+    members:
+      - {type: bm25}
+      - {type: vector, model: BAAI/bge-small-en-v1.5}

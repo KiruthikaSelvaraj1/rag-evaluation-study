@@ -1,0 +1,5 @@
+# Check your provider's current model list; names change.
+provider: groq
+model: openai/gpt-oss-20b
+temperature: 0.0
+# keys via env: GROQ_API_KEY / GEMINI_API_KEY

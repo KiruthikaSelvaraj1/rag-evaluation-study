@@ -1,0 +1,6 @@
+name: vector
+dataset: scifact
+split: test
+k: 10
+depth: 100
+retriever: {type: vector, model: BAAI/bge-small-en-v1.5}

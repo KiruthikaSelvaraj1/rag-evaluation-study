@@ -1,0 +1,1814 @@
+{
+ "1": {
+  "query": "0-dimensional biomaterials show inductive properties.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "10608397",
+   "43385013",
+   "40212412",
+   "10931595",
+   "27049238"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "1024": {
+  "query": "Recurrent mutations occur frequently within CTCF anchor sites adjacent to oncogenes.",
+  "answer": "INSUFFICIENT EVIDENCE",
+  "context": [
+   "5373138",
+   "24995939",
+   "8494570",
+   "140874",
+   "14530534"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "1029": {
+  "query": "Reduced responsiveness to interleukin-2 in regulatory T cells is associated with greater resistance to autoimmune diseases such as Type 1 Diabetes.",
+  "answer": "Reduced IL\u20112 responsiveness in regulatory T cells is linked to **increased** susceptibility to autoimmune disease, not resistance.  In humans, an IL2RA haplotype associated with type\u202f1 diabetes correlates with diminished IL\u20112 responsiveness and impaired Treg function [11899391].  In mice, engineered Il2 haplo\u2011deficiency reduces IL\u20112 production, mimics susceptibility alleles, and correlates with reduced Treg function and autoimmune dysregulation [13923140].  Thus, lower IL\u20112 responsiveness is associated with greater autoimmunity, not greater resistance.",
+  "context": [
+   "11899391",
+   "13923140",
+   "7115651",
+   "34025053",
+   "2388819"
+  ],
+  "cited": [
+   "11899391",
+   "13923140"
+  ],
+  "valid_cited": [
+   "11899391",
+   "13923140"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "1041": {
+  "query": "Replacement of histone H2A with H2A.Z slows gene activation in yeasts by stabilizing +1 nucleosomes.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "9451052",
+   "15778034",
+   "5966635",
+   "25254425",
+   "2817000"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "1104": {
+  "query": "Stroke patients with prior use of direct oral anticoagulants have a lower risk of in-hospital mortality than stroke patients with prior use of warfarin.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "3898784",
+   "4910408",
+   "36003142",
+   "32328114",
+   "11718220"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "1121": {
+  "query": "Synaptic activity enhances local release of brain derived neurotrophic factor from postsynaptic dendrites.",
+  "answer": "Synaptic activity triggers rapid, postsynaptically\u2011localized release of BDNF from dendritic spines, as shown by glutamate\u2011uncaging\u2013evoked, time\u2011locked BDNF release in CA1 pyramidal neurons. This release is dependent on NMDAR, CaMKII, and locally synthesized BDNF, supporting the claim that synaptic activity enhances local BDNF release from postsynaptic dendrites. [4456756]",
+  "context": [
+   "10790846",
+   "4456756",
+   "23076291",
+   "10009203",
+   "12932176"
+  ],
+  "cited": [
+   "4456756"
+  ],
+  "valid_cited": [
+   "4456756"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "1130": {
+  "query": "T regulatory cells (tTregs) lacking \u03b1v\u03b28 are more adept at suppressing pathogenic T-cell responses during active inflammation.",
+  "answer": "The claim is false.  Effector Treg cells that lack integrin \u03b1v\u03b28 are unable to suppress pathogenic T\u2011cell responses during active inflammation, rather than being more adept at suppression. [17997584]",
+  "context": [
+   "17997584",
+   "6913227",
+   "7399084",
+   "4380287",
+   "5811042"
+  ],
+  "cited": [
+   "17997584"
+  ],
+  "valid_cited": [
+   "17997584"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "1132": {
+  "query": "TCR/CD3 microdomains are a required to induce the immunologic synapse to activate T cells.",
+  "answer": "INSUFFICIENT EVIDENCE",
+  "context": [
+   "6936141",
+   "2714623",
+   "24069089",
+   "20457190",
+   "33499189"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "1146": {
+  "query": "Teaching hospitals do not provide better care than non-teaching hospitals.",
+  "answer": "The systematic review of 132 studies found that the adjusted relative risk of mortality in teaching versus non\u2011teaching hospitals was 0.96 (95\u202f%\u202fCI\u202f0.93\u20131.00), indicating no statistically significant survival advantage for teaching hospitals. [13906581]",
+  "context": [
+   "13906581",
+   "20746604",
+   "17626822",
+   "20606520",
+   "43855756"
+  ],
+  "cited": [
+   "13906581"
+  ],
+  "valid_cited": [
+   "13906581"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "1175": {
+  "query": "The PPR MDA5 has two N-terminal CARD domains.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "22191759",
+   "38899659",
+   "16058322",
+   "24550453",
+   "26011884"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "1179": {
+  "query": "The PRR MDA5 has a central DExD/H RNA helices domain.",
+  "answer": "The claim is true. MDA5 is described as a DExD/H\u2011box RNA helicase, a class of proteins that contain a central DExD/H RNA helicase domain. [10627801]",
+  "context": [
+   "10627801",
+   "1569031",
+   "16058322",
+   "2566674",
+   "14474178"
+  ],
+  "cited": [
+   "10627801"
+  ],
+  "valid_cited": [
+   "10627801"
+  ],
+  "abstained": false,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "118": {
+  "query": "Antibiotic induced alterations in the gut microbiome reduce resistance against Clostridium difficile",
+  "answer": "Antibiotic treatment disrupts the gut microbial community, lowering colonization resistance and making the gut environment more favorable for *Clostridium difficile* germination and growth. This loss of resistance is linked to the depletion of bile\u2011acid\u2011transforming bacteria such as *Clostridium scindens*, which normally convert primary bile acids to secondary bile acids that inhibit *C. difficile* [6372244][4465735].",
+  "context": [
+   "6372244",
+   "4465735",
+   "32454714",
+   "13714201",
+   "15578265"
+  ],
+  "cited": [
+   "6372244",
+   "4465735"
+  ],
+  "valid_cited": [
+   "6372244",
+   "4465735"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "1187": {
+  "query": "The YAP1 and TEAD complex tanslocates into the nucleus where it interacts with transcription factors and DNA-binding proteins that modulate target gene transcription.",
+  "answer": "The YAP1\u2013TEAD complex is known to move into the nucleus where it functions as a transcriptional co\u2011activator.  When the Hippo pathway is inactive, YAP/TAZ are dephosphorylated, stabilized and translocate to the nucleus, where they bind TEAD and drive target gene expression [52873726].  TEAD itself is a DNA\u2011binding transcription factor that partners with YAP to regulate genes such as CTGF, thereby modulating transcriptional programs [12737132].  Thus, the complex does translocate to the nucleus and interacts with DNA\u2011binding proteins to influence gene transcription.",
+  "context": [
+   "52873726",
+   "3893473",
+   "19099739",
+   "12737132",
+   "40667066"
+  ],
+  "cited": [
+   "52873726",
+   "12737132"
+  ],
+  "valid_cited": [
+   "52873726",
+   "12737132"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "1191": {
+  "query": "The amount of publicly available DNA data doubles every 10 years.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "36355784",
+   "10827901",
+   "45548062",
+   "86704258",
+   "24979644"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "1194": {
+  "query": "The arm density of TatAd complexes is due to structural rearrangements within Class1 TatAd complexes such as the 'charge zipper mechanism'.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "11419230",
+   "24706198",
+   "7925817",
+   "15327601",
+   "15548965"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "1216": {
+  "query": "The extracellular domain of TMEM27 is cleaved in human beta cells.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "24142891",
+   "20943272",
+   "8219248",
+   "4407455",
+   "13779605"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "1221": {
+  "query": "The genomic aberrations found in matasteses are very similar to those found in the primary tumor.",
+  "answer": "INSUFFICIENT EVIDENCE",
+  "context": [
+   "21479575",
+   "2679511",
+   "1836154",
+   "33370",
+   "44674301"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "1226": {
+  "query": "The loss of the TET protein functions may have dire biological consequences, such as myeloid cancers.",
+  "answer": "The loss of TET protein function, particularly TET2, is a common event in myeloid and lymphoid malignancies and is associated with the development of myeloid cancers. TET2 inactivation through loss\u2011of\u2011function mutation, deletion, or IDH1/2 mutation contributes to these diseases and accumulates with age in clonal hematopoiesis, a precursor to myeloid malignancies. [11951999]",
+  "context": [
+   "11951999",
+   "2405259",
+   "12440953",
+   "15081770",
+   "24731248"
+  ],
+  "cited": [
+   "11951999"
+  ],
+  "valid_cited": [
+   "11951999"
+  ],
+  "abstained": false,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "1232": {
+  "query": "The minor G allele of FOXO3 is related to more severe symptoms of Crohn's Disease.",
+  "answer": "The claim is false. The minor G allele of FOXO3 (rs12212067) is associated with a milder course of Crohn\u2019s disease, not more severe symptoms. [13905670]",
+  "context": [
+   "13905670",
+   "6957332",
+   "2844490",
+   "12443371",
+   "4427060"
+  ],
+  "cited": [
+   "13905670"
+  ],
+  "valid_cited": [
+   "13905670"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "124": {
+  "query": "Antiretroviral therapy reduces rates of tuberculosis across a broad range of CD4 strata.",
+  "answer": "Antiretroviral therapy (ART) is associated with lower tuberculosis (TB) rates across a wide range of CD4 counts, as shown by the decline in TB case notification linked to expanded ART access for co\u2011infected patients in Swaziland. [32012666]",
+  "context": [
+   "4883040",
+   "7111021",
+   "31363207",
+   "13899137",
+   "32012666"
+  ],
+  "cited": [
+   "32012666"
+  ],
+  "valid_cited": [
+   "32012666"
+  ],
+  "abstained": false,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "1272": {
+  "query": "The single flash-evoked ERG b-wave is generated by activity of ON-bipolar cells.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "24760136",
+   "13458119",
+   "15685921",
+   "17081238",
+   "94365950"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "128": {
+  "query": "Arterioles have a larger lumen diameter than venules.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "23513718",
+   "1122279",
+   "8290953",
+   "2665425",
+   "12631182"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "1290": {
+  "query": "There is an inverse relationship between hip fractures and statin use.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "4687948",
+   "16812091",
+   "7965928",
+   "2391552",
+   "22420524"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "1298": {
+  "query": "Thigh-length graduated compression stockings (GCS) did not reduce deep vein thrombosis in patients admitted to hospital who are immobile because of acute stroke.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "11718220",
+   "34338075",
+   "79231308",
+   "39059143",
+   "19464037"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "13": {
+  "query": "5% of perinatal mortality is due to low birth weight.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "1263446",
+   "7662395",
+   "17450673",
+   "5487448",
+   "12779444"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "130": {
+  "query": "Articles published in open access format are more likely to be cited than traditional journals.",
+  "answer": "Open\u2011access articles are cited more quickly and more often than subscription\u2011based articles. The study by Eysenbach shows that OA papers receive higher citation rates than non\u2011OA papers, supporting the view that free availability speeds up scientific dialogue and increases citations. [27768226]",
+  "context": [
+   "27768226",
+   "10577574",
+   "2107238",
+   "60515890",
+   "97566194"
+  ],
+  "cited": [
+   "27768226"
+  ],
+  "valid_cited": [
+   "27768226"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "1316": {
+  "query": "Transferred UCB T cells acquire a memory-like phenotype in recipients.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "27243019",
+   "43587663",
+   "18834078",
+   "13398997",
+   "21320417"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "133": {
+  "query": "Assembly of invadopodia is triggered by focal generation of phosphatidylinositol-3,4-biphosphate and the activation of the nonreceptor tyrosine kinase Src.",
+  "answer": "The claim is supported. In Src\u2011transformed NIH3T3 cells, podosome (invadopodia) formation is stimulated after accumulation of phosphatidylinositol\u20113,4\u2011bisphosphate (PtdIns(3,4)P2) and requires Src activity, as Src expression promotes podosome formation at focal adhesions following PtdIns(3,4)P2 accumulation. [16280642]",
+  "context": [
+   "16280642",
+   "19752008",
+   "5270265",
+   "45764440",
+   "26688294"
+  ],
+  "cited": [
+   "16280642"
+  ],
+  "valid_cited": [
+   "16280642"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "1337": {
+  "query": "Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety at PCNA K164.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "20231138",
+   "1635872",
+   "13277623",
+   "31962403",
+   "7820043"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "1385": {
+  "query": "cSMAC formation enhances weak ligand signalling.",
+  "answer": "The claim is contradicted. In the study, increasing cSMAC formation actually **reduced** the stimulatory capacity of a weak peptide, indicating that cSMAC formation does not enhance weak ligand signalling. [306006]",
+  "context": [
+   "306006",
+   "9283422",
+   "994800",
+   "12265561",
+   "39859981"
+  ],
+  "cited": [
+   "306006"
+  ],
+  "valid_cited": [
+   "306006"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "1389": {
+  "query": "mTORC2 regulates intracellular cysteine levels through xCT inhibition.",
+  "answer": "Yes.  The study shows that mTORC2 phosphorylates the cystine\u2011glutamate antiporter xCT at serine\u202f26, inhibiting its activity.  This inhibition reduces cystine uptake and alters intracellular cysteine availability, linking mTORC2 signaling to cysteine metabolism in cancer cells.  [23895668]",
+  "context": [
+   "23895668",
+   "36180468",
+   "5172048",
+   "5612738",
+   "30774694"
+  ],
+  "cited": [
+   "23895668"
+  ],
+  "valid_cited": [
+   "23895668"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "148": {
+  "query": "Autophagy declines in aged organisms.",
+  "answer": "Autophagy activity decreases with age in organisms. In aged rodents, the lysosomal receptor for chaperone\u2011mediated autophagy (CMA) declines, leading to reduced CMA activity and accumulation of altered proteins [1084345]. The ubiquitin\u2011proteasome system and autophagy\u2011lysosome pathways both show diminished function during ageing, contributing to proteostasis loss and age\u2011related disease [10012166]. In rat liver, levels of Omi/HtrA2 and key autophagy proteins (LC3II/I, Beclin\u20111, LAMP2) fall progressively with age, indicating autophagic deficiency [56528795].",
+  "context": [
+   "1084345",
+   "10012166",
+   "52887689",
+   "56528795",
+   "4407385"
+  ],
+  "cited": [
+   "1084345",
+   "10012166",
+   "56528795"
+  ],
+  "valid_cited": [
+   "1084345",
+   "10012166",
+   "56528795"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "198": {
+  "query": "CCL19 is absent within dLNs.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "40590358",
+   "2177022",
+   "13778710",
+   "20148808",
+   "13949015"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "212": {
+  "query": "CR is associated with higher methylation age.",
+  "answer": "The claim is false. Caloric restriction (CR) attenuates age\u2011related DNA\u2011methylation drift, making the methylation age appear younger than chronological age. In rhesus monkeys, 30\u202f% CR reduced methylation age by ~7\u202fyears, and in mice 40\u202f% CR produced even greater effects across tissues [22038539].",
+  "context": [
+   "4434951",
+   "14475235",
+   "22038539",
+   "23017040",
+   "7808055"
+  ],
+  "cited": [
+   "22038539"
+  ],
+  "valid_cited": [
+   "22038539"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "213": {
+  "query": "CRP is not predictive of postoperative mortality following Coronary Artery Bypass Graft (CABG) surgery.",
+  "answer": "The claim is false. Pre\u2011operative C\u2011reactive protein (CRP) levels predict long\u2011term mortality after CABG. In a cohort of 914 CABG patients, those with pre\u2011operative CRP \u22653\u202fmg/L had a significantly higher 7\u2011year all\u2011cause mortality (hazard ratios 2.50 for 3\u201110\u202fmg/L and 2.66 for >10\u202fmg/L) compared with those <1\u202fmg/L [27054878]. Thus, CRP is indeed predictive of postoperative mortality following CABG.",
+  "context": [
+   "27054878",
+   "40156901",
+   "750781",
+   "9846940",
+   "20887554"
+  ],
+  "cited": [
+   "27054878"
+  ],
+  "valid_cited": [
+   "27054878"
+  ],
+  "abstained": false,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "233": {
+  "query": "Cell autonomous sex determination in somatic cells does not occur in Galliformes.",
+  "answer": "The claim is false.  In chickens (a Galliform), somatic sex identity is cell\u2011autonomous: male and female avian somatic cells retain an inherent sex identity, and donor cells in mixed\u2011sex chimaeras are excluded from the functional structures of the host gonad, indicating cell\u2011autonomous determination [4388470].",
+  "context": [
+   "4388470",
+   "4423327",
+   "7426741",
+   "36708463",
+   "6913227"
+  ],
+  "cited": [
+   "4388470"
+  ],
+  "valid_cited": [
+   "4388470"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "238": {
+  "query": "Cells undergoing methionine restriction may activate miRNAs.",
+  "answer": "INSUFFICIENT EVIDENCE",
+  "context": [
+   "4463811",
+   "23017040",
+   "28704738",
+   "36654066",
+   "10463997"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "239": {
+  "query": "Cellular aging closely links to an older appearance.",
+  "answer": "The deletion of the DNA\u2011damage response gene ATR in adult mice produces classic age\u2011related phenotypes, including hair graying, alopecia, and kyphosis, which are visible signs of an older appearance. [40349336]",
+  "context": [
+   "7042304",
+   "615047",
+   "3952288",
+   "40349336",
+   "516867"
+  ],
+  "cited": [
+   "40349336"
+  ],
+  "valid_cited": [
+   "40349336"
+  ],
+  "abstained": false,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "261": {
+  "query": "Chronic aerobic exercise alters endothelial function, improving vasodilating mechanisms mediated by NO.",
+  "answer": "Chronic aerobic exercise improves endothelial\u2011mediated vasodilation by enhancing nitric\u2011oxide (NO) production and signaling. Exercise training increases endothelial nitric\u2011oxide synthase (eNOS) expression and NO release, which blunts vasoconstrictor responses and augments coronary blood flow capacity [35271381, 46743299]. In humans, mild regular aerobic exercise raises plasma NOx and cGMP levels, indicating heightened NO bioavailability [32322418]. In a porcine model of coronary occlusion, exercise training improved endothelium\u2011dependent relaxation of collateral\u2011dependent arterioles and up\u2011regulated eNOS mRNA in the microvasculature [1122279]. Thus, chronic aerobic exercise enhances NO\u2011mediated vasodilatory mechanisms in the endothelium.",
+  "context": [
+   "35271381",
+   "32322418",
+   "46743299",
+   "25822299",
+   "1122279"
+  ],
+  "cited": [
+   "35271381",
+   "46743299",
+   "32322418",
+   "1122279"
+  ],
+  "valid_cited": [
+   "35271381",
+   "46743299",
+   "32322418",
+   "1122279"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "269": {
+  "query": "Cold exposure reduces BAT recruitment.",
+  "answer": "Cold exposure stimulates brown adipose tissue (BAT) recruitment and increases Ucp1 expression, promoting thermogenesis rather than reducing it. [36838958]",
+  "context": [
+   "36838958",
+   "970012",
+   "32955023",
+   "29381091",
+   "13000926"
+  ],
+  "cited": [
+   "36838958"
+  ],
+  "valid_cited": [
+   "36838958"
+  ],
+  "abstained": false,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "275": {
+  "query": "Combining phosphatidylinositide 3-kinase and MEK 1/2 inhibitors is effective at treating KRAS mutant tumors.",
+  "answer": "Combining PI3K and MEK inhibition can be effective against KRAS\u2011mutant tumors. In KRAS\u2011mutant pancreatic cancer cell lines, concurrent PI3K inhibition synergized with ERK (MEK downstream) inhibition, leading to enhanced cell death and growth suppression [4920376].",
+  "context": [
+   "4961038",
+   "85665741",
+   "4920376",
+   "1285713",
+   "11200685"
+  ],
+  "cited": [
+   "4920376"
+  ],
+  "valid_cited": [
+   "4920376"
+  ],
+  "abstained": false,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "279": {
+  "query": "Commelina yellow mottle virus' (ComYMV) genome consists of 7489 baise pairs.",
+  "answer": "True. The genome of Commelina yellow mottle virus (CoYMV) is reported to be 7,489 base pairs in size. [14376683]",
+  "context": [
+   "14376683",
+   "83667891",
+   "37677954",
+   "46193478",
+   "87986426"
+  ],
+  "cited": [
+   "14376683"
+  ],
+  "valid_cited": [
+   "14376683"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "300": {
+  "query": "Cytosolic proteins bind to iron-responsive elements on mRNAs coding for DMT1. Cytosolic proteins bind to iron-responsive elements on mRNAs coding for proteins involved in iron uptake.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "16120395",
+   "15551129",
+   "6828370",
+   "12652963",
+   "6722522"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "303": {
+  "query": "DMRT1 is a sex-determining gene that is epigenetically regulated by the MHM region.",
+  "answer": "INSUFFICIENT EVIDENCE",
+  "context": [
+   "4085204",
+   "4388470",
+   "23581096",
+   "12232678",
+   "36708463"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "312": {
+  "query": "De novo assembly of sequence data has more specific contigs than unassembled sequence data.",
+  "answer": "INSUFFICIENT EVIDENCE",
+  "context": [
+   "14464451",
+   "32770503",
+   "14185503",
+   "25041967",
+   "15960670"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "314": {
+  "query": "Deamination of cytidine to uridine on the minus strand of viral DNA results in catastrophic G-to-A mutations in the viral genome.",
+  "answer": "Deamination of cytidine to uridine in the minus\u2011strand cDNA of a retrovirus by the cellular cytidine deaminase APOBEC3G (CEM15) produces extensive G\u2192A hypermutation in the nascent viral genome, effectively destroying the virus. This deamination\u2011induced mutation is a key innate\u2011immune defense against retroviruses. [544971] [2638387]",
+  "context": [
+   "544971",
+   "2638387",
+   "24896957",
+   "2758012",
+   "4347374"
+  ],
+  "cited": [
+   "544971",
+   "2638387"
+  ],
+  "valid_cited": [
+   "544971",
+   "2638387"
+  ],
+  "abstained": false,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "338": {
+  "query": "Dexamethasone decreases risk of postoperative bleeding.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "23349986",
+   "24211561",
+   "36288526",
+   "15948830",
+   "18872233"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "354": {
+  "query": "Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigenesis.",
+  "answer": "The claim is false.  Downregulation or mislocalization of Scribble promotes, rather than prevents, cell transformation and mammary tumorigenesis by disrupting polarity, blocking apoptosis, and cooperating with oncogenes such as c\u2011myc [8774475].",
+  "context": [
+   "8774475",
+   "34103335",
+   "17917408",
+   "1866911",
+   "17844478"
+  ],
+  "cited": [
+   "8774475"
+  ],
+  "valid_cited": [
+   "8774475"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "380": {
+  "query": "Enhanced early production of inflammatory chemokines improves viral control in the lung.",
+  "answer": "Yes. Memory CD4\u207a T cells enhance early production of innate inflammatory cytokines and chemokines in the lung, and this response leads to early control of influenza virus infection. [19005293]",
+  "context": [
+   "19005293",
+   "17223891",
+   "10648422",
+   "6144969",
+   "11328820"
+  ],
+  "cited": [
+   "19005293"
+  ],
+  "valid_cited": [
+   "19005293"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "385": {
+  "query": "Epigenetic modulating agents (EMAs) modulate antitumor immune response in a cancer model system.",
+  "answer": "Epigenetic modulating agents can enhance antitumor immunity in cancer models.  Pre\u2011clinical studies show that epigenetic silencing of immune\u2011related genes is reversed by such agents, improving antigen presentation, effector T\u2011cell function and breaking suppressor mechanisms [1032372].  In a murine ovarian cancer model, DNA\u2011methyltransferase and histone\u2011deacetylase inhibitors (AZA and HDACi) activate type\u202fI interferon signaling, increase CD8\u207a T and NK cells, reduce tumor burden and improve response to checkpoint blockade [9767444].",
+  "context": [
+   "1032372",
+   "5991309",
+   "9767444",
+   "12641252",
+   "15541119"
+  ],
+  "cited": [
+   "1032372",
+   "9767444"
+  ],
+  "valid_cited": [
+   "1032372",
+   "9767444"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "388": {
+  "query": "Ethanol stress decreases the expression of IBP in bacteria.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "21602220",
+   "24019260",
+   "1148122",
+   "28025754",
+   "22908536"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "399": {
+  "query": "Exposure to fine particulate air pollution is relate to anxiety prevalence.",
+  "answer": "Exposure to fine particulate air pollution (PM\u2082.\u2085) is associated with a higher prevalence of clinically significant anxiety symptoms. In an observational cohort of 71,271 women, higher past exposure to PM\u2082.\u2085 was linked to increased odds of high anxiety symptoms measured by the Crown\u2011Crisp index [791050].",
+  "context": [
+   "791050",
+   "471921",
+   "42387637",
+   "21003930",
+   "13770184"
+  ],
+  "cited": [
+   "791050"
+  ],
+  "valid_cited": [
+   "791050"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "410": {
+  "query": "Febrile seizures increase the threshold for development of epilepsy.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "14924526",
+   "116792",
+   "29723642",
+   "15889329",
+   "1410197"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "415": {
+  "query": "Female carriers of the Apolipoprotein E4 (APOE4) allele have increased risk for dementia.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "4709641",
+   "12443371",
+   "18852643",
+   "20937018",
+   "24906548"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "431": {
+  "query": "FoxO3a activation in neuronal death is mediated by reactive oxygen species (ROS).",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "19922508",
+   "22696649",
+   "10993232",
+   "36838958",
+   "2543135"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "443": {
+  "query": "GATA-3 is important for hematopoietic stem cell (HSC) function.",
+  "answer": "GATA\u20113 is required for normal hematopoietic stem cell (HSC) maintenance and for their entry into the cell cycle, as loss of GATA\u20113 reduces the number of long\u2011term repopulating HSCs and impairs their ability to re\u2011enter the cell cycle after myelosuppression. [10165258]",
+  "context": [
+   "10165258",
+   "16728949",
+   "11289247",
+   "2853291",
+   "11900630"
+  ],
+  "cited": [
+   "10165258"
+  ],
+  "valid_cited": [
+   "10165258"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "475": {
+  "query": "Glycolysis is one of the primary glycometabolic pathways in cells.",
+  "answer": "Glycolysis is indeed one of the primary metabolic pathways that cells use to generate energy and metabolic intermediates. It is described as the main source of ATP for processes such as phagocytosis in macrophages and is a key component of the Warburg effect in many cancers, where cells preferentially use glycolysis even in the presence of oxygen. [23148978] [23576165]",
+  "context": [
+   "23576165",
+   "195689757",
+   "33030946",
+   "23148978",
+   "8477699"
+  ],
+  "cited": [
+   "23148978",
+   "23576165"
+  ],
+  "valid_cited": [
+   "23148978",
+   "23576165"
+  ],
+  "abstained": false,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "478": {
+  "query": "Golli-deficient T-cells prefer to differentiate into an anergic phenotype in the adaptive immune response when there are increased levels of Ca2+ in the cytosol.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "34854444",
+   "14767844",
+   "19005293",
+   "10562341",
+   "2506153"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "48": {
+  "query": "A total of 1,000 people in the UK are asymptomatic carriers of vCJD infection.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "18617259",
+   "13734012",
+   "13959707",
+   "18340282",
+   "26016929"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "5": {
+  "query": "1/2000 in UK have abnormal PrP positivity.",
+  "answer": "INSUFFICIENT EVIDENCE",
+  "context": [
+   "13734012",
+   "18617259",
+   "17333231",
+   "42240424",
+   "695938"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "513": {
+  "query": "High cardiopulmonary fitness causes increased mortality rate.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "13230773",
+   "12770738",
+   "36288526",
+   "11441172",
+   "40156901"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "514": {
+  "query": "High dietary calcium intakes are unnecessary for prevention of secondary hyperparathyroidism in subjects with 25(OH)D levels above 75 nmol/liter.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "4462079",
+   "22023404",
+   "36960449",
+   "3150030",
+   "25599283"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "517": {
+  "query": "High levels of copeptin decrease risk of diabetes.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "19658917",
+   "32850528",
+   "30981192",
+   "12130200",
+   "31890716"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "539": {
+  "query": "Hypoglycemia increases the risk of dementia.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "13282296",
+   "11953232",
+   "11886686",
+   "6309659",
+   "21472388"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "549": {
+  "query": "IRG1 has antiviral effects against neurotropic viruses.",
+  "answer": "Yes. In the study of neuronal innate immunity, transducing cortical neurons with genes highly expressed in granule cell neurons identified IRG1 as one of three interferon\u2011stimulated genes (Ifi27, Irg1, Rsad2/Viperin) that conferred antiviral effects against various neurotropic viruses. [9433958]",
+  "context": [
+   "9433958",
+   "9539248",
+   "1970884",
+   "30034334",
+   "7820043"
+  ],
+  "cited": [
+   "9433958"
+  ],
+  "valid_cited": [
+   "9433958"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "57": {
+  "query": "APOE4 expression in iPSC-derived neurons increases AlphaBeta production and tau phosphorylation, delaying GABA neuron degeneration.",
+  "answer": "APOE4 expression in human iPSC\u2011derived neurons increases A\u03b2 production and tau phosphorylation, but it does **not** delay GABAergic neuron degeneration; instead it promotes their loss. [4709641]",
+  "context": [
+   "4709641",
+   "22185730",
+   "11659421",
+   "13969173",
+   "35520219"
+  ],
+  "cited": [
+   "4709641"
+  ],
+  "valid_cited": [
+   "4709641"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "575": {
+  "query": "In domesticated populations of Saccharomyces cerevisiae, whole chromosome aneuploidy is very uncommon.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "16686383",
+   "3400973",
+   "27134931",
+   "8747771",
+   "23664875"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "578": {
+  "query": "In mouse models, the loss of CSF1R facilitates MOZ-TIF2-induced leuekmogenesis.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "8764879",
+   "3559136",
+   "14174055",
+   "14434123",
+   "31882215"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "587": {
+  "query": "In transgenic mice harboring green florescent protein under the control of the Sox2 promoter, less than ten percent of the cells with green florescent colocalize with cell proliferation markers.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "16999023",
+   "2559303",
+   "21230110",
+   "7142113",
+   "40558887"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "593": {
+  "query": "Incidence of heart failure decreased by 10% in women since 1979.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "19675911",
+   "36355784",
+   "31889025",
+   "20945963",
+   "6993046"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "623": {
+  "query": "Individuals with low serum vitamin D concentrations have increased risk of multiple sclerosis.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "25599283",
+   "4462079",
+   "12074066",
+   "36960449",
+   "22843838"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "659": {
+  "query": "Ivermectin is used to treat lymphatic filariasis.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "1215116",
+   "17327939",
+   "46926352",
+   "3896759",
+   "13070316"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "674": {
+  "query": "LDL cholesterol has no involvement in the development of cardiovascular disease.",
+  "answer": "LDL cholesterol has a causal role in the development of cardiovascular disease. The genome\u2011wide association study and review passages explicitly state that LDL is the essential causative agent of coronary heart disease and that lowering LDL should be the primary goal to eliminate coronary disease. [2095573] [7662206]",
+  "context": [
+   "2095573",
+   "30981192",
+   "7662206",
+   "5612738",
+   "4647303"
+  ],
+  "cited": [
+   "2095573",
+   "7662206"
+  ],
+  "valid_cited": [
+   "2095573",
+   "7662206"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "690": {
+  "query": "Less than 10% of the gabonese children with Schimmelpenning-Feuerstein-Mims syndrome (SFM) had a plasma lactate of more than 5mmol/L.",
+  "answer": "INSUFFICIENT EVIDENCE",
+  "context": [
+   "18174210",
+   "23908217",
+   "7011850",
+   "25420421",
+   "18750453"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "693": {
+  "query": "Leuko-reduced blood reduces infectious complications in red blood cell transfusion.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "24088502",
+   "7850867",
+   "23203102",
+   "36288526",
+   "11349166"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "716": {
+  "query": "Low expression of miR7a exerts a biological function in testis.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "23581096",
+   "27949347",
+   "2374637",
+   "4346436",
+   "1381673"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "721": {
+  "query": "Lupus-prone mice infected with curliproducing bacteria have higher autoantibody titers compared to controls.",
+  "answer": "Lupus\u2011prone mice infected with curli\u2011producing bacteria had higher autoantibody titers than those infected with curli\u2011deficient bacteria. [1834762]",
+  "context": [
+   "1834762",
+   "12670680",
+   "1996292",
+   "5800138",
+   "13106686"
+  ],
+  "cited": [
+   "1834762"
+  ],
+  "valid_cited": [
+   "1834762"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "723": {
+  "query": "Ly49Q directs the organization of neutrophil migration to inflammation sites by regulating membrane raft functions.",
+  "answer": "Ly49Q directs neutrophil migration to inflammation sites by regulating membrane raft functions. [5531479]",
+  "context": [
+   "5531479",
+   "20608982",
+   "1800734",
+   "28712203",
+   "15058155"
+  ],
+  "cited": [
+   "5531479"
+  ],
+  "valid_cited": [
+   "5531479"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "729": {
+  "query": "Lymphadenopathy is observed in knockin mouse lacking the SHP-2 MAPK pathway.",
+  "answer": "Lymphadenopathy is observed in the SHP\u20112 signal\u2011deficient knock\u2011in mice (gp130F759/F759), which also show splenomegaly and an enhanced acute\u2011phase reaction. [26851674]",
+  "context": [
+   "18038250",
+   "26851674",
+   "18489989",
+   "4729644",
+   "4422868"
+  ],
+  "cited": [
+   "26851674"
+  ],
+  "valid_cited": [
+   "26851674"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "744": {
+  "query": "Macropinocytosis contributes to a cell's supply of amino acids via the intracellular uptake of protein.",
+  "answer": "Macropinocytosis supplies amino acids to cells by internalizing extracellular protein, which is then degraded in lysosomes to release amino acids such as glutamine that can enter central carbon metabolism. This route can reduce a cell\u2019s dependence on free extracellular glutamine and supports growth of Ras\u2011transformed cells. [4138659]",
+  "context": [
+   "4138659",
+   "8460275",
+   "3105781",
+   "31407112",
+   "6722522"
+  ],
+  "cited": [
+   "4138659"
+  ],
+  "valid_cited": [
+   "4138659"
+  ],
+  "abstained": false,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "75": {
+  "query": "Active H. pylori urease has a polymeric structure that compromises two subunits, UreA and UreB.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "13965483",
+   "4387784",
+   "2837758",
+   "25657127",
+   "26488879"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "759": {
+  "query": "Mathematical models predict that using Artemisinin-based combination therapy over nongametocytocidal drugs have a dramatic impact in reducing malaria transmission.",
+  "answer": "Mathematical modelling studies show that replacing non\u2011gametocytocidal antimalarials with artemisinin\u2011based combination therapies (ACTs) can markedly lower malaria transmission.  In Tanzania, a model predicted that first\u2011line ACT use would reduce transmission in six settings of varying intensity, and that drugs with stronger gametocytocidal effects would achieve even greater reductions\u30101805641\u3011.  A pooled analysis of six trials found that ACT treatment was associated with a significant drop in the probability of gametocytaemia and in transmission to mosquitoes, indicating a strong gametocytocidal effect that would lower onward transmission\u301012409683\u3011.  An individual\u2011based African model incorporated the switch to ACT and projected a substantial decline in transmission when ACT coverage increased, underscoring the impact of ACT\u2019s gametocytocidal properties\u301018074797\u3011.",
+  "context": [
+   "1805641",
+   "3929361",
+   "12409683",
+   "18074797",
+   "13948920"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": false,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "768": {
+  "query": "Mercaptopurine is anabolized into the inactive methylmercaptopurine by thiopurine methyltrasnferase (TPMT).",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "19497526",
+   "1373287",
+   "15778034",
+   "6421792",
+   "2817000"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "783": {
+  "query": "Mice without IFN-\u03b3 or its receptor are resistant to EAM induced with \u03b1-MyHC/CFA.",
+  "answer": "The claim is false. Mice lacking IFN\u2011\u03b3 or its receptor develop more severe experimental autoimmune myocarditis (EAM) rather than being resistant. In IFN\u2011\u03b3R\u207b/\u207b mice, EAM is exacerbated and becomes chronic, with persistently elevated IL\u201117 and recruitment of CD11b\u207a monocytes that fail to suppress Th17 responses [39084565]. Likewise, IFN\u2011\u03b3 deficiency (by antibody depletion or genetic knockout) worsens myocarditis, increasing splenic cellularity and cytokine production [8246922]. Thus, absence of IFN\u2011\u03b3 or its receptor does not confer resistance to EAM induced with \u03b1\u2011MyHC/CFA.",
+  "context": [
+   "39084565",
+   "8246922",
+   "6270720",
+   "7155555",
+   "29015485"
+  ],
+  "cited": [
+   "39084565",
+   "8246922"
+  ],
+  "valid_cited": [
+   "39084565",
+   "8246922"
+  ],
+  "abstained": false,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "784": {
+  "query": "MicroRNA is involved in the regulation of Neural Stem Cell (NSC) differentiation and proliferation dynamic homeostasis",
+  "answer": "MicroRNA plays a key role in balancing neural stem cell (NSC) proliferation and differentiation. In adult NSCs, MBD1 represses miR\u2011184; high miR\u2011184 levels promote proliferation but block differentiation, whereas miR\u2011184 inhibition restores normal differentiation in MBD1\u2011deficient cells. miR\u2011184 also targets Numblike, a regulator of brain development, and exogenous Numbl can rescue the defects caused by miR\u2011184 overexpression or MBD1 loss, establishing a regulatory network that maintains NSC homeostasis. [2356950]",
+  "context": [
+   "16999023",
+   "23535770",
+   "2356950",
+   "25597580",
+   "38727075"
+  ],
+  "cited": [
+   "2356950"
+  ],
+  "valid_cited": [
+   "2356950"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "785": {
+  "query": "Microarray results from culture-amplified mixtures of serotypes correlate poorly with microarray results from uncultured mixtures.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "54440",
+   "12471115",
+   "6550579",
+   "15274349",
+   "25452937"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "793": {
+  "query": "Mitochondria are uninvolved in apoptosis.",
+  "answer": "Mitochondria are actively involved in apoptosis. They release cytochrome\u202fc, trigger caspase activation, and their membrane potential changes and ROS production drive mitoptosis, a form of mitochondrial\u2011dependent cell death. [9588931] [23403754]",
+  "context": [
+   "8551160",
+   "23403754",
+   "9588931",
+   "8425533",
+   "23509113"
+  ],
+  "cited": [
+   "9588931",
+   "23403754"
+  ],
+  "valid_cited": [
+   "9588931",
+   "23403754"
+  ],
+  "abstained": false,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "808": {
+  "query": "Most termination events in Okazaki fragments are sequence specific.",
+  "answer": "The claim is false.  The study shows that replication termination of Okazaki fragments is a largely passive phenomenon that does not rely on cis\u2011acting sequences or replication\u2011fork pausing.  [36606083]",
+  "context": [
+   "36606083",
+   "36180468",
+   "4313478",
+   "36713289",
+   "25787749"
+  ],
+  "cited": [
+   "36606083"
+  ],
+  "valid_cited": [
+   "36606083"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "820": {
+  "query": "N-terminal cleavage increases success identifying transcription start sites.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "5116145",
+   "3346812",
+   "4407455",
+   "5702790",
+   "16691520"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "823": {
+  "query": "N348I mutations cause resistance to zidovudine (AZT).",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "15319019",
+   "2319305",
+   "39443128",
+   "6426919",
+   "10326242"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "830": {
+  "query": "NF2 (Merlin) causes phosphorylation and subsequent cytoplasmic sequestration of YAP in Drosophila by activating LATS1/2 kinases.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "52873726",
+   "735130",
+   "4447785",
+   "12737132",
+   "1897324"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "832": {
+  "query": "NFAT4 activation requires IP3R-mediated Ca2+ mobilization.",
+  "answer": "True. NFAT4 requires Ca\u00b2\u207a mobilization from the inner nuclear envelope by nuclear InsP\u2083 receptors for its sustained activation. [30303335]",
+  "context": [
+   "30303335",
+   "12948892",
+   "7869794",
+   "10562341",
+   "15657779"
+  ],
+  "cited": [
+   "30303335"
+  ],
+  "valid_cited": [
+   "30303335"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "837": {
+  "query": "NR5A2 is important in development of endometrial tissues.",
+  "answer": "NR5A2 (also called Lrh\u20111) is expressed in the endometrium and is required for proper decidualization and placental development, indicating its importance in endometrial tissue development. [15928989]",
+  "context": [
+   "15928989",
+   "1780819",
+   "16346504",
+   "25263942",
+   "6121668"
+  ],
+  "cited": [
+   "15928989"
+  ],
+  "valid_cited": [
+   "15928989"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "852": {
+  "query": "Non-invasive ventilation use should be decreased if there is inadequate response to conventional treatment.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "13843341",
+   "474325",
+   "25612629",
+   "34208005",
+   "14361849"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "913": {
+  "query": "PPAR-RXRs are inhibited by PPAR ligands.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "25677651",
+   "25328476",
+   "23938319",
+   "22478394",
+   "712078"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "922": {
+  "query": "Patients in stable partnerships have a faster progression from HIV to AIDS.",
+  "answer": "INSUFFICIENT EVIDENCE.",
+  "context": [
+   "17077004",
+   "37444589",
+   "23304931",
+   "46353045",
+   "24596228"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ },
+ "957": {
+  "query": "Podocytes are motile and migrate in the presence of injury.",
+  "answer": "Podocytes are motile and can migrate, especially after injury. In podocin\u2011GFP mice, unilateral ureteral ligation induced sporadic multicellular clusters of podocytes that migrated into the parietal Bowman's capsule, and single\u2011cell tracking in podocin\u2011confetti mice showed simultaneous migration of multiple podocytes. Serial multiphoton microscopy also revealed PEC\u2011to\u2011podocyte migration and nanotubule connections in PEPCK\u2011GFP mice, supporting a highly dynamic glomerular environment. [123859]",
+  "context": [
+   "13492264",
+   "123859",
+   "11983390",
+   "16355392",
+   "28207326"
+  ],
+  "cited": [
+   "123859"
+  ],
+  "valid_cited": [
+   "123859"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "975": {
+  "query": "Primary pro-inflammatory cytokines induce secondary pro- and anti-inflammatory mediators.",
+  "answer": "Primary pro\u2011inflammatory cytokines such as IL\u20111 and TNF\u2011\u03b1 can trigger the production of additional mediators that further amplify or modulate inflammation. In human chondrocytes, AGEs stimulate IL\u20111, TNF\u2011\u03b1 and the matrix\u2011remodeling enzyme MMP\u201113, demonstrating that initial cytokine signals induce secondary pro\u2011inflammatory effectors [9956893].",
+  "context": [
+   "4454788",
+   "343052",
+   "6144969",
+   "9956893",
+   "29509926"
+  ],
+  "cited": [
+   "9956893"
+  ],
+  "valid_cited": [
+   "9956893"
+  ],
+  "abstained": false,
+  "cites_gold": false,
+  "gold_in_context": false
+ },
+ "985": {
+  "query": "Pseudogene PTENP1 regulates the expression of PTEN by functioning as an miRNA decoy.",
+  "answer": "Pseudogene PTENP1 regulates PTEN expression by acting as an miRNA decoy, competing for microRNA binding and thereby modulating PTEN levels. [6828370]",
+  "context": [
+   "6828370",
+   "34071621",
+   "16364639",
+   "13964633",
+   "24294572"
+  ],
+  "cited": [
+   "6828370"
+  ],
+  "valid_cited": [
+   "6828370"
+  ],
+  "abstained": false,
+  "cites_gold": true,
+  "gold_in_context": true
+ },
+ "99": {
+  "query": "Alizarin forms hydrogen bonds with residues involved in PGAM1 substrate binding.",
+  "answer": "INSUFFICIENT EVIDENCE",
+  "context": [
+   "18810195",
+   "12225214",
+   "36855703",
+   "21754541",
+   "39389082"
+  ],
+  "cited": [],
+  "valid_cited": [],
+  "abstained": true,
+  "cites_gold": false,
+  "gold_in_context": true
+ }
+}

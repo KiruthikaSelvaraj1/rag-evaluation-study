@@ -1,0 +1,5 @@
+name: smoke_bm25
+dataset: toy
+k: 10
+depth: 50
+retriever: {type: bm25}

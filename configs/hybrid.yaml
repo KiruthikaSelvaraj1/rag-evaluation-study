@@ -1,0 +1,12 @@
+name: hybrid
+dataset: scifact
+split: test
+k: 10
+depth: 100
+retriever:
+  type: hybrid
+  rrf_k: 60
+  candidate_depth: 100
+  members:
+    - {type: bm25}
+    - {type: vector, model: BAAI/bge-small-en-v1.5}
