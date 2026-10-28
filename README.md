@@ -145,7 +145,30 @@ tests/           unit tests (metrics, retrieval, stats, generation, API)
 analysis/        error-analysis files
 results/         per-run metrics and rankings
 docs/            figures
+
 ```
+## Generation and faithfulness
+
+LLM answers (openai/gpt-oss-20b via Groq) were generated from the top-5 retrieved passages with citations and an abstain option, for the same 100 sampled queries per system.
+
+| Deterministic metric (n = 100) | BM25 | Dense |
+|---|---|---|
+| Abstained (insufficient evidence) | 53% | 56% |
+| Citations pointing to a retrieved passage | 100% | 100% |
+| Cites a gold-labelled passage | 33% | 35% |
+| Gold passage in top-5 context | 75% | 67% |
+
+The differences between systems are within sampling noise at n = 100.
+
+**LLM-as-judge faithfulness was not reliable, so no faithfulness ranking is reported.** I hand-labelled answers and compared them with a judge (same model family):
+
+| Check | n | Result |
+|---|---|---|
+| Judge vs human labels, strict first pass | 60 | accuracy 0.37, kappa -0.04 |
+| My first pass vs my second pass (written rule) | 46 | agreement 0.33, kappa -0.26 |
+| Judge vs human labels, second pass | 46 | accuracy 0.76, kappa 0.22 |
+
+The judge approved 83% of answers regardless of the human label. The same 46 answers were rated faithful 43% of the time under a strict reading and 76% under a lenient one, so the labelling rule itself was ambiguous. Next steps would be a tighter written rubric, a second independent annotator, and a stronger judge from a different model family.
 
 ## Author
 

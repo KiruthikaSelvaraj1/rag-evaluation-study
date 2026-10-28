@@ -1,12 +1,12 @@
 """Diagnose judge vs human labels. Judge calls are cached, so this is free to rerun."""
-import csv, json
+import csv, json, sys
+sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 from collections import Counter, defaultdict
 from pathlib import Path
 
 from rag_study.cli import _ds_from_run
 from rag_study.judge import judge_one
 from rag_study.llm import LLM
-
 
 def diagnose(llm, results="results", labels="data/human_labels/labels.csv", show=4):
     ds, gens, rows = None, {}, []
